@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TaaghcheBook.Application/1.0.0": {
+        "dependencies": {
+          "TaaghcheBook.Core": "1.0.0"
+        },
+        "runtime": {
+          "TaaghcheBook.Application.dll": {}
+        }
+      },
+      "TaaghcheBook.Core/1.0.0": {
+        "runtime": {
+          "TaaghcheBook.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaaghcheBook.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaaghcheBook.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

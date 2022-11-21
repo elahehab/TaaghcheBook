@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fbc55e48-d8a2-4c85-b298-2c05db59cda3": {
+      "ProjectGuid": "fbc55e48-d8a2-4c85-b298-2c05db59cda3",
+      "DisplayName": "TaaghcheBook.Core",
+      "ColorIndex": 0
+    },
+    "0617dc69-41e5-4865-9d9f-6f0677146ed5": {
+      "ProjectGuid": "0617dc69-41e5-4865-9d9f-6f0677146ed5",
+      "DisplayName": "TaaghcheBook.Application",
+      "ColorIndex": 1
+    },
+    "7613e210-b14a-4cbd-b78f-57200ee24d11": {
+      "ProjectGuid": "7613e210-b14a-4cbd-b78f-57200ee24d11",
+      "DisplayName": "TaaghcheBook.Infrastructure",
+      "ColorIndex": 2
+    },
+    "c32cc2fa-3da6-4855-ba33-549496156b46": {
+      "ProjectGuid": "c32cc2fa-3da6-4855-ba33-549496156b46",
+      "DisplayName": "TaaghcheBook.Core",
+      "ColorIndex": 3
+    },
+    "bd301932-e192-4834-9525-68a523bf48f5": {
+      "ProjectGuid": "bd301932-e192-4834-9525-68a523bf48f5",
+      "DisplayName": "TaaghcheBook.Infrastructure",
+      "ColorIndex": 4
+    },
+    "e8cce5fc-52c4-4fbe-bfcf-e9fda50714a5": {
+      "ProjectGuid": "e8cce5fc-52c4-4fbe-bfcf-e9fda50714a5",
+      "DisplayName": "TaaghcheBook.API",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6f5bb56e-1719-41f8-a320-6d236967d2e7": {
+      "ProjectGuid": "6f5bb56e-1719-41f8-a320-6d236967d2e7",
+      "DisplayName": "TaaghcheBook.Test",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
